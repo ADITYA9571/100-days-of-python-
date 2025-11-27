@@ -1,0 +1,26 @@
+"""file io in python"""
+#create(x), text(t), binary(b), ,  append(a)
+###read(r)
+f = open('readlines.py','r')
+# r mode is by-default
+text = f.read()
+print(text)
+f.close
+###write(w)
+# f = open('abc.py','w')
+# text = str(input("String: "))
+# f.write(text)
+# f.close()
+###append(a)
+# f = open('abc.py','a')
+# text = str(input("String: "))
+# f.write(text)
+# f.close()
+###create(x)
+# f = open('abcd.py','w')
+# text = str(input("String: "))
+# f.write(text)
+# f.close()
+# with open('abcd.py','a') as f:
+#     text = str(input("String: "))
+#     f.write(text)

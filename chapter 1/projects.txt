@@ -1,0 +1,55 @@
+Great! Here are some **beginner-friendly Python practice projects** to help you build confidence and apply what you’re learning:
+
+---
+
+### 🧠 **Beginner Python Projects**
+
+#### 1. **Number Guessing Game**
+- Generate a random number between 1–100.
+- Ask the user to guess it with hints ("Too high"/"Too low").
+- Use loops, conditionals, and input.
+
+#### 2. **Basic Calculator**
+- Take two numbers and an operator from the user.
+- Perform operations: `+`, `-`, `*`, `/`.
+
+#### 3. **To-Do List (CLI)**
+- Add, view, and delete tasks.
+- Store tasks in a list (or a text file for bonus points).
+
+#### 4. **Dice Roller Simulator**
+- Simulate rolling a 6-sided die (or 2 dice).
+- Use the `random` module.
+
+#### 5. **Password Generator**
+- Generate random passwords with letters, numbers, and symbols.
+- Allow user to choose password length.
+
+---
+
+### 🗃️ **File-Based Projects**
+
+#### 6. **Simple Contact Book**
+- Store names and numbers in a text or CSV file.
+- Allow add/search/delete.
+
+#### 7. **Quiz App**
+- Ask multiple-choice questions.
+- Track score and show it at the end.
+
+---
+
+### 🔄 **Practice with Loops and Strings**
+
+#### 8. **Palindrome Checker**
+- Check if a word or sentence is the same backwards.
+
+#### 9. **Fibonacci Generator**
+- Print first `n` Fibonacci numbers.
+
+#### 10. **Word Counter**
+- Count how many times each word appears in a sentence or file.
+
+---
+
+Would you like me to help you build one of these step by step?

@@ -1,0 +1,7 @@
+a = input("by default accepts as string")
+print (a)
+b = input("Enter value for B:")
+print("B=",b)
+print(a+b)
+c = int(input("Specified int data type :"))
+print("String converted",str(c))
